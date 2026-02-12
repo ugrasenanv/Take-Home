@@ -1,0 +1,13 @@
+return_id,order_id,customer_id,store_id,country,channel,product_name,category,brand,unit_price,currency,quantity,return_date,purchase_date,reason_text,reason_code,warranty_claim,refund_status,support_language,agent_notes
+R1001,O9001,C102,SF01,US,online,iPhone 14,Smartphones,Apple,899,USD,1,2026-01-02,2025-12-20,"Battery drains fast",DEFECT_BATTERY,1,approved,en,"customer reported overheat"
+R1002,O9002,C245,SF03,US,store,Apple TV 4K,Streaming,Apple,179,USD,1,2026-01-03,2025-12-28,"Did not match expectations",NO_LONGER_NEEDED,0,approved,en,"opened box"
+R1003,O9003,C301,LDN02,UK,online,Galaxy S23,Smartphones,Samsung,799,GBP,1,2026-01-03,2025-12-21,"écran flicker",DEFECT_SCREEN,1,pending,fr,"needs QA validation"
+R1004,O9004,C412,BER01,DE,store,PlayStation 5,Gaming,Sony,499,EUR,1,2026-01-04,2025-12-30,"duplicate charge complaint",PROCESSING_ISSUE,0,rejected,de,"chargeback flagged"
+R1005,O9005,C183,SF01,US,online,AirPods Pro,Audio,Apple,249,USD,1,2026-01-05,2025-12-25,"left ear no sound",DEFECT_AUDIO,1,approved,en,"RMA requested"
+R1006,O9006,C556,MAD01,ES,store,Xbox Series X,Gaming,Microsoft,499,EUR,1,2026-01-05,2025-12-27,"wrong region plug",OTHER,0,approved,es,"adapter refunded"
+R1007,O9007,C902,SF03,US,online,iPhone 14,Smartphones,Apple,899,USD,1,2026-01-06,2025-12-29,"camera blur issue",DEFECT_CAMERA,1,pending,en,"batch 14A suspected"
+R1008,O9008,C640,LDN02,UK,store,Dyson V12,Home Appliances,Dyson,599,GBP,1,2026-01-07,2025-12-23,"stops after 5 mins",DEFECT_MOTOR,1,approved,en,"likely defective lot"
+R1009,O9009,C711,BER01,DE,online,Kindle Paperwhite,Tablets,Amazon,169,EUR,2,2026-01-07,2025-12-30,"gift return",NO_LONGER_NEEDED,0,approved,de,"sealed units"
+R1010,O9010,C188,MAD01,ES,online,Apple TV 4K,Streaming,Apple,179,EUR,1,2026-01-08,2025-12-31,"no funciona mando",DEFECT_REMOTE,1,pending,es,"remote replacement suggested"
+R1011,O9011,C199,SF01,US,store,MacBook Air,Computers,Apple,1199,USD,1,2026-01-09,2026-01-01,"dead pixels",DEFECT_SCREEN,1,pending,en,"escalated to supplier"
+R1012,O9012,C200,LDN02,UK,online,Nintendo Switch,Gaming,Nintendo,299,GBP,1,2026-01-10,2026-01-02,"joycon drift",DEFECT_CONTROLLER,1,approved,en,"high recurrence"
